@@ -1,17 +1,22 @@
 h1{
 	font-size: 100px;
 	color:rgb(255,0 ,9);
+	font-family: serif;
+	font-style: italic;
 
 }
-body{
-	background-color: rgb(50,59,188)
-}
+
+
 
 .ab{
-	
-	color: rgb(217,223,38);
-
+	font-size: 50px;
+	color: rgb(255,171,7);
+font-family: serif;
+font-style: italic;
 }
 .bc{
-	color:rgb(217,238,138);
+	color:rgb(255,171,0);
+	font-family: serif;
+	font-size: 50px;
+	font-style: italic;
 }
